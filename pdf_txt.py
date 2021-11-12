@@ -31,5 +31,4 @@ def PDF_to_txt(PDF_file_path=None):
     os.open(path='extract-text.txt', flags=1)
 
 
-
-PDF_to_txt(PDF_file_path='No.20-08_Pojcomservice_20.08.2019.pdf')
+PDF_to_txt(PDF_file_path="".pdf')
